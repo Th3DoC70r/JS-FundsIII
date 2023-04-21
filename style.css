@@ -1,0 +1,47 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: whitesmoke;   
+}
+h1 {
+    background-color: purple;
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+    border-style: ridge;
+    text-decoration-line: underline;
+    width: max(1000px, auto);
+}
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 210px;
+    margin-left: 20px;
+    border-style: solid;
+    border-color: royalblue;
+}
+body {
+    width: auto;
+	height: auto;
+}
+.List {
+    margin-top: 10px;
+    margin-left: 46px;
+
+}
+.archived-task-list {
+    margin-top: 10px;
+    margin-left: 46px;
+}
+.completed-tasks-list {
+    margin-top: 10px;
+    margin-left: 46px;
+    margin-bottom: auto;
+}
+.arc-inputs {
+    margin-top: 10px;
+    margin-left: 46px;
+}
